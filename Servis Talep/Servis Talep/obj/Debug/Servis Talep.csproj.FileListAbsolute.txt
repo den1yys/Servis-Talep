@@ -1,0 +1,21 @@
+Z:\NTP\Servis Talep\Servis Talep\obj\Debug\Servis Talep.csproj.AssemblyReference.cache
+Z:\NTP\Servis Talep\Servis Talep\obj\Debug\Servis_Talep.Form1.resources
+Z:\NTP\Servis Talep\Servis Talep\obj\Debug\Servis_Talep.Properties.Resources.resources
+Z:\NTP\Servis Talep\Servis Talep\obj\Debug\Servis Talep.csproj.GenerateResource.cache
+Z:\NTP\Servis Talep\Servis Talep\obj\Debug\Servis Talep.csproj.CoreCompileInputs.cache
+Z:\NTP\Servis Talep\Servis Talep\obj\Debug\Servis_Talep.FrmGuncelle.resources
+Z:\NTP\Servis Talep\Servis Talep\bin\Debug\Servis Talep.exe.config
+Z:\NTP\Servis Talep\Servis Talep\bin\Debug\Servis Talep.exe
+Z:\NTP\Servis Talep\Servis Talep\bin\Debug\Servis Talep.pdb
+Z:\NTP\Servis Talep\Servis Talep\bin\Debug\EntityFramework.dll
+Z:\NTP\Servis Talep\Servis Talep\bin\Debug\EntityFramework.SqlServer.dll
+Z:\NTP\Servis Talep\Servis Talep\bin\Debug\System.Data.SQLite.dll
+Z:\NTP\Servis Talep\Servis Talep\bin\Debug\System.Data.SQLite.EF6.dll
+Z:\NTP\Servis Talep\Servis Talep\bin\Debug\System.Data.SQLite.Linq.dll
+Z:\NTP\Servis Talep\Servis Talep\bin\Debug\EntityFramework.xml
+Z:\NTP\Servis Talep\Servis Talep\bin\Debug\EntityFramework.SqlServer.xml
+Z:\NTP\Servis Talep\Servis Talep\bin\Debug\System.Data.SQLite.xml
+Z:\NTP\Servis Talep\Servis Talep\obj\Debug\Servis Talep.csproj.CopyComplete
+Z:\NTP\Servis Talep\Servis Talep\obj\Debug\Servis Talep.exe
+Z:\NTP\Servis Talep\Servis Talep\obj\Debug\Servis Talep.pdb
+Z:\NTP\Servis Talep\Servis Talep\obj\Debug\Servis_Talep.FrmEkle.resources
